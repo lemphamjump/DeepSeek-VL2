@@ -7,7 +7,7 @@ lo<!-- markdownlint-disable first-line-h1 -->
 </div>
 <hr>
 <div align="center">
-  <a href="https://www.deepseek.com/" target="_blank"
+  <a href="https://www.deepseek.com/" target="_blank
     <img alt="Homepage" src="images/badge.svg" />
   </a>
   <a href="" target="_blank">
