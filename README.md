@@ -9,7 +9,7 @@ lo<!-- markdownlint-disable first-line-h1 -->
 <div align="center"
   <a href="https://www.deepseek.com/" target="_blank
     <img alt="Homepage" src"images/badge.svg" />
-  </a>
+  </a
   <a href="" target=_blank">
     <img alt="Chat" src="https://img.shields.io/badge/🤖%20Chat-DeepSeek%20VL-536af5?color=536af5&logoColor=white" />
   </a>
