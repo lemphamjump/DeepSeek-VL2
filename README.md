@@ -6,7 +6,7 @@ lo<!-- markdownlint-disable first-line-h1 -->
   <img src="images/logo.svg" width="60%" alt="DeepSeek LLM" />
 </div>
 <hr>
-<div align="center">
+<div align="center"
   <a href="https://www.deepseek.com/" target="_blank
     <img alt="Homepage" src="images/badge.svg" />
   </a>
