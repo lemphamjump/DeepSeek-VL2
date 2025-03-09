@@ -11,7 +11,7 @@ lo<!-- markdownlint-disable first-line-h1 -->
     <img alt="Homepage" src"images/badge.svg" />
   </a
   <a href="" target=_blank"
-    <img alt="Chat" src="https://img.shields.io/badge/🤖%20Chat-DeepSeek%20VL-536af5?color=536af5&logoColor=white" />
+    <img alt="Chat src="https://img.shields.io/badge/🤖%20Chat-DeepSeek%20VL-536af5?color=536af5&logoColor=white" />
   </a>
   <a href="https://huggingface.co/deepseek-ai" target="_blank">
     <img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-DeepSeek%20AI-ffc107?color=ffc107&logoColor=white" />
